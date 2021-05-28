@@ -1,0 +1,2 @@
+macのxbarというアプリケーションを用いて画面上部のメニューバーに
+AtCoderとcodeforcesの情報を表示させる
