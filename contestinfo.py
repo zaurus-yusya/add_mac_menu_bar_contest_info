@@ -21,6 +21,7 @@ payload['api_key'] = API_KEY
 payload['order_by'] = "start"
 
 dt_now = datetime.datetime.now(datetime.timezone.utc)
+print(dt_now)
 start_date=dt_now.isoformat()[:19]
 
 payload['start__gt'] = start_date
